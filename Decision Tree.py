@@ -214,7 +214,7 @@ def tester(proportion):
 
     return
 
-# RUNNING EVERYTHING
+# RUNNING EVERYTHING Type something random
 reader_and_packager()
 entropy_calculator(example_list)
 root_node = id3(example_list, headers_without_question)
