@@ -1,0 +1,48 @@
+Star,Menu-Online,Cost,Veggie,Atmosphere,Access,Happy-Hour,Kid-Friendly,Alcohol
+4,Yes,$,Blank,Blank,Blank,Blank,Blank,Blank
+5,No,$$,Yes,Casual & Cozy,Yes,Yes,Yes,Blank
+4,Yes,$$,Yes,Casual & Cozy,Yes,Blank,Yes,Yes
+4,Yes,$,Blank,Casual & Cozy & Historic,Yes,Blank,Yes,Blank
+4,Yes,$,Yes,Casual & Cozy,Yes,Blank,Yes,Blank
+5,Yes,$$,Yes,Casual & Cozy,Yes,Blank,Yes,Blank
+4,Yes,$$$,Yes,Casual,Yes,Blank,Yes,Yes
+4,Yes,$,Yes,Casual,Yes,Yes,Yes,Blank
+4,Yes,$$,Blank,Casual,Yes,Blank,Yes,Blank
+5,Yes,$,Yes,Casual,Blank,Blank,Yes,Blank
+4,Yes,$,Yes,Casual,Yes,Yes,Yes,Yes
+5,No,$$,Blank,Casual & Cozy & Romantic,Yes,Blank,Yes,Blank
+4,Yes,$,Blank,Casual & Cozy,Yes,Yes,Yes,Blank
+4,Yes,$$$,Yes,Casual,Yes,Yes,Yes,Yes
+4,No,$,Yes,Casual & Cozy & Historic,Blank,Yes,Yes,Blank
+4,Yes,$,Yes,Casual,Yes,Yes,Yes,Yes
+5,Yes,$,Yes,Casual & Cozy,Yes,Yes,Yes,Yes
+4,Yes,Blank,Yes,Casual,Yes,Yes,Yes,Yes
+5,Yes,$$,Yes,Casual & Cozy & Upscale,Yes,Yes,Yes,Yes
+4,Yes,$,Yes,Casual,Yes,Yes,Yes,Yes
+5,Yes,$,Yes,Casual & Cozy,Yes,Yes,Yes,Yes
+5,Yes,$$,Blank,Blank,Blank,Blank,Blank,Blank
+5,Yes,$$,Yes,Casual & Cozy,Yes,Blank,Yes,Blank
+4,Yes,Blank,Blank,Blank,Blank,Blank,Blank,Blank
+4,Yes,$$,Yes,Casual,Yes,Blank,Yes,Blank
+4,Yes,$,Yes,Casual & Cozy,Yes,Blank,Yes,Blank
+3,Yes,Blank,Yes,Casual,Yes,Blank,Yes,Yes
+4,Yes,$,Blank,Casual,Yes,Blank,Yes,Blank
+4,No,$,Yes,Casual,Yes,Blank,Yes,Yes
+5,No,$$,Yes,Casual & Cozy,Yes,Blank,Yes,Yes
+4,Yes,$,Blank,Blank,Blank,Blank,Blank,Blank
+5,Yes,$$,Yes,Casual & Cozy,Yes,Blank,Yes,Blank
+5,No,$$,Yes,Casual,Yes,Yes,Yes,Blank
+5,Yes,$$,Yes,Cozy & Romantic & Upscale,Yes,Yes,Blank,Yes
+5,Yes,$,Yes,Casual,Yes,Blank,Yes,Blank
+5,No,$,Yes,Casual & Cozy,Yes,Yes,Yes,Blank
+4,Yes,$,Yes,Casual,Yes,Blank,Yes,Blank
+5,No,$$,Blank,Casual & Cozy,Yes,Blank,Yes,Blank
+4,Yes,$,Yes,Casual,Yes,Yes,Yes,Yes
+4,Yes,$,Yes,Casual,Yes,Yes,Yes,Yes
+4,Yes,$,Yes,Casual,Yes,Yes,Yes,Yes
+5,No,$$,Yes,Casual & Cozy,Yes,Blank,Blank,Yes
+4,Yes,Blank,Blank,Casual,Blank,Blank,Blank,Blank
+5,Yes,$$,Yes,Casual & Cozy,Yes,Yes,Yes,Blank
+5,Yes,$$,Yes,Casual,Yes,Yes,Yes,Yes
+5,Yes,Blank,Yes,Casual & Cozy,Yes,Blank,Yes,Yes
+4,Yes,$$,Yes,Casual,Yes,Blank,Yes,Yes
