@@ -15,22 +15,54 @@ answer_set = set([])
 
 # node class (used in id3, display, tester, etc.)
 class Node:
+    '''
+    This class will create Nodes for the Decision Tree
+    '''
     def __init__(self, name):
+        '''
+        Creates variable associated with class
+
+        :type name: String
+        :param name: The name of the node
+        '''
         self.children = {}
         self.label = str(name)
 
     def getChildren(self):
+        '''
+        Function for getting the children for a node
+
+        :return: The nodes that are the children for the current node
+        '''
         return self.children
 
     def addChild(self, key, value):
+        '''
+        Adds a child to the current node
+
+        :type key: String
+        :param key: The key of the child node being added
+        :type value: String
+        :param value: The value of the child node being added
+        :return: The child node that was added in the list of children where the key is the index and the value is the value
+        '''
         self.children[key] = value
 
     def getLabel(self):
+        '''
+        Function that gets the label of the current node
+
+        :return: The label of the current node
+        '''
         return self.label
 
 
 def reader_and_packager():
-    # reads files with data. Returns a list of tuples - the first value being a decision, the second value being a dictionary of an example
+    '''
+    Reads the file with the data.
+    :return: Returns a list of tuples.
+    The first value is the catagory and the second value is the dictionary of all of the catagory's attributes where the key in the dictionary is the label.
+    '''
 
     file = open("GeneralizedDataPizza.txt", "r") # change the file here!
 
@@ -214,11 +246,13 @@ def tester(proportion):
 
     return
 
-# RUNNING EVERYTHING Type something random
-reader_and_packager()
-entropy_calculator(example_list)
-root_node = id3(example_list, headers_without_question)
-display(root_node, 0)
-tester(0.95) # change the amount of training data here!
+
+if __name__ == '__main__':
+    # RUNNING EVERYTHING Type something random
+    reader_and_packager()
+    entropy_calculator(example_list)
+    root_node = id3(example_list, headers_without_question)
+    display(root_node, 0)
+    tester(0.95) # change the amount of training data here!
 
 #No Test
